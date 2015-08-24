@@ -3,7 +3,7 @@ setup base env for debian based os.
 
 # get to run
 ```
-sudo bash setup.sh
+bash setup.sh
 ```
 
 # note
