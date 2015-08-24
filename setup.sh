@@ -1,7 +1,7 @@
 #!/bin/bash -ex
 #
 # base env setup for debian based os
-# @author Wenruij Jiang(wenruij@gmail.com)
+# @author Wenrui Jiang (wenruij@gmail.com)
 #
 
 ##################### VERSION TO SET #######################
