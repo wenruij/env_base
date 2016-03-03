@@ -7,8 +7,8 @@ bash setup.sh
 ```
 try to run:
 
-  ./data/mnist/get_mnist.sh
-  ./examples/mnist/create_mnist.sh
+    ./data/mnist/get_mnist.sh
+    ./examples/mnist/create_mnist.sh
 
 try to run:
 ```bash
