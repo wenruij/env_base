@@ -37,8 +37,8 @@ bash setup.sh
 <tbody>
 <tr>
   <td>1</td>
-  <td>N</td>
-  <td>Y</td>
+  <td align="center">N</td>
+  <td align="center">Y</td>
 </tr>
 </tbody>
 </table>
