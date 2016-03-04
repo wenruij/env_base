@@ -6,13 +6,13 @@ setup base env for debian based os.
 bash setup.sh
 ```
 <table>
-<thead>
+<tbody>
 <tr>
-  <th></th>
-  <th>Yarn Missing?</th>
-  <th>HDFS Missing?</th>
+  <td></td>
+  <td align="center">Yarn Missing?</td>
+  <td align="center">HDFS Missing?</td>
 </tr>
-</thead>
+</tbody>
 <tbody>
 <tr>
   <td>1</td>
