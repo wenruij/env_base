@@ -8,16 +8,37 @@ bash setup.sh
 <table>
 <thead>
 <tr>
-  <th>你好</th>
-  <th>Markdown</th>
-  <th>表格</th>
+  <th></th>
+  <th>Yarn Missing?</th>
+  <th>HDFS Missing?</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td>我</td>
-  <td>不是</td>
-  <td>人</td>
+  <td>1</td>
+  <td>Y</td>
+  <td>Y</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+  <td>2</td>
+  <td>N</td>
+  <td>N</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>Y</td>
+  <td>N</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>N</td>
+  <td>Y</td>
 </tr>
 </tbody>
 </table>
