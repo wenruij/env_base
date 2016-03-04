@@ -5,7 +5,7 @@ setup base env for debian based os.
 ```
 bash setup.sh
 ```
-<table align="center">
+<table>
 <thead>
 <tr>
   <th></th>
@@ -16,22 +16,22 @@ bash setup.sh
 <tbody>
 <tr>
   <td>1</td>
-  <td>Y</td>
-  <td>Y</td>
+  <td align="center">Y</td>
+  <td align="center">Y</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
   <td>2</td>
-  <td>N</td>
-  <td>N</td>
+  <td align="center">N</td>
+  <td align="center">N</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
   <td>1</td>
-  <td>Y</td>
-  <td>N</td>
+  <td align="center">Y</td>
+  <td align="center">N</td>
 </tr>
 </tbody>
 <tbody>
