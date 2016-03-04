@@ -5,9 +5,9 @@ setup base env for debian based os.
 ```
 bash setup.sh
 ```
-|a|a|a|
-|a||a|
-|a|a||
+||a||a||a||
+||a||a||a||
+||a||a||a||
 
 # note
 this is to build up envs requested for big data dev. 
