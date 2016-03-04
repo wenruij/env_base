@@ -43,5 +43,7 @@ bash setup.sh
 </tbody>
 </table>
 
+<img src="https://raw.github.com/twitter/scalding/develop/logo/scalding.png" alt="Architecture and data flow of SpeeDO" align="center" width="600" height="400" />
+
 # note
 this is to build up envs requested for big data dev. 
