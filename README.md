@@ -5,7 +5,7 @@ setup base env for debian based os.
 ```
 bash setup.sh
 ```
-<table>
+<table align="center">
 <thead>
 <tr>
   <th></th>
