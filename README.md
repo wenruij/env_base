@@ -1,6 +1,8 @@
 # env_base
 setup base env for debian based os.
 
+NOTE: i have tested it
+
 # get to run
 ```
 bash setup.sh
