@@ -3,6 +3,11 @@ setup base env for debian based os.
 
 NOTE: i have tested it
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 # get to run
 ```
 bash setup.sh
